@@ -34,7 +34,7 @@ This script is a comprehensive utility for enumerating and assessing information
   - `dnspython`
   - `fpdf`
   - `smbprotocol` (for SMB testing)
-  - `impacket` (for SMB testing)
+  - `impacket` ( If you are installing `impacket` on Windows, **disable your antivirus software temporarily**. Some antivirus programs may interfere with the installation process.)
 
 You can install the required packages using pip:
 
