@@ -63,5 +63,6 @@ To retrieve LDAP naming contexts and filter for users:
 python script.py -ip 192.168.1.1 -d example.com -u admin -P password -f users
 To check DNS misconfigurations:
 python script.py -ip 192.168.1.1 -d example.com --dns
-![output](https://github.com/user-attachments/assets/6126c427-89ef-4369-8aaa-6fc02eae43c9)
+![output](https://github.com/user-attachments/assets/d94e24d8-267e-4f1e-a798-80044cda99db)
+
 
