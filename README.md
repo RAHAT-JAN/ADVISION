@@ -58,3 +58,11 @@ Command-Line Arguments
 --sidhistory: Retrieve SID history for a user.
 --smb: Test SMB connectivity and share enumeration (not implemented in the provided code but suggested).
 --dcom: Test DCOM connectivity.
+Example
+To retrieve LDAP naming contexts and filter for users:
+python script.py -ip 192.168.1.1 -d example.com -u admin -P password -f users
+To check DNS misconfigurations:
+python script.py -ip 192.168.1.1 -d example.com --dns
+Notes
+Ensure that you have appropriate permissions and authorization to run this script on the target systems.
+The script's functionalities related to SMB and DCOM testing require additional code that is suggested but not included in the provided code.
