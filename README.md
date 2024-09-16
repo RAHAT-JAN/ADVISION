@@ -1,6 +1,8 @@
 # LDAP and Network Enumeration Tool
 
 This script is a comprehensive utility for enumerating and assessing information from LDAP servers, performing DNS misconfiguration checks, and testing DCOM and SMB connections. It integrates various functionalities including LDAP enumeration, password policy retrieval, SID history, DNS checks, and more.
+![output](https://github.com/user-attachments/assets/ef884830-e777-486c-957f-d735683b063a)
+
 
 ## Features
 
